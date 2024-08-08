@@ -1,0 +1,11 @@
+c:\users\0030482211029\documents\visual studio 2013\Projects\PMenus\PMenus\bin\Debug\PMenus.exe.config
+c:\users\0030482211029\documents\visual studio 2013\Projects\PMenus\PMenus\bin\Debug\PMenus.exe
+c:\users\0030482211029\documents\visual studio 2013\Projects\PMenus\PMenus\bin\Debug\PMenus.pdb
+c:\users\0030482211029\documents\visual studio 2013\Projects\PMenus\PMenus\obj\Debug\PMenus.csprojResolveAssemblyReference.cache
+c:\users\0030482211029\documents\visual studio 2013\Projects\PMenus\PMenus\obj\Debug\PMenus.Form1.resources
+c:\users\0030482211029\documents\visual studio 2013\Projects\PMenus\PMenus\obj\Debug\PMenus.frmExercicio2.resources
+c:\users\0030482211029\documents\visual studio 2013\Projects\PMenus\PMenus\obj\Debug\PMenus.Properties.Resources.resources
+c:\users\0030482211029\documents\visual studio 2013\Projects\PMenus\PMenus\obj\Debug\PMenus.csproj.GenerateResource.Cache
+c:\users\0030482211029\documents\visual studio 2013\Projects\PMenus\PMenus\obj\Debug\PMenus.exe
+c:\users\0030482211029\documents\visual studio 2013\Projects\PMenus\PMenus\obj\Debug\PMenus.pdb
+c:\users\0030482211029\documents\visual studio 2013\Projects\PMenus\PMenus\obj\Debug\PMenus.frmExercicio3.resources
