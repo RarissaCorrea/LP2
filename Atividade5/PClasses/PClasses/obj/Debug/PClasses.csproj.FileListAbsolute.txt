@@ -1,0 +1,11 @@
+C:\Users\0030482211029\Documents\Visual Studio 2013\Projects\PClasses\PClasses\bin\Debug\PClasses.exe.config
+C:\Users\0030482211029\Documents\Visual Studio 2013\Projects\PClasses\PClasses\bin\Debug\PClasses.exe
+C:\Users\0030482211029\Documents\Visual Studio 2013\Projects\PClasses\PClasses\bin\Debug\PClasses.pdb
+C:\Users\0030482211029\Documents\Visual Studio 2013\Projects\PClasses\PClasses\obj\Debug\PClasses.csprojResolveAssemblyReference.cache
+C:\Users\0030482211029\Documents\Visual Studio 2013\Projects\PClasses\PClasses\obj\Debug\PClasses.frmPrincipal.resources
+C:\Users\0030482211029\Documents\Visual Studio 2013\Projects\PClasses\PClasses\obj\Debug\PClasses.frmHorista.resources
+C:\Users\0030482211029\Documents\Visual Studio 2013\Projects\PClasses\PClasses\obj\Debug\PClasses.frmMensalista.resources
+C:\Users\0030482211029\Documents\Visual Studio 2013\Projects\PClasses\PClasses\obj\Debug\PClasses.Properties.Resources.resources
+C:\Users\0030482211029\Documents\Visual Studio 2013\Projects\PClasses\PClasses\obj\Debug\PClasses.csproj.GenerateResource.Cache
+C:\Users\0030482211029\Documents\Visual Studio 2013\Projects\PClasses\PClasses\obj\Debug\PClasses.exe
+C:\Users\0030482211029\Documents\Visual Studio 2013\Projects\PClasses\PClasses\obj\Debug\PClasses.pdb
