@@ -1,0 +1,11 @@
+c:\users\0030482211029\documents\visual studio 2013\Projects\PCopa0030482211029\PCopa0030482211029\bin\Debug\PCopa0030482211029.exe.config
+c:\users\0030482211029\documents\visual studio 2013\Projects\PCopa0030482211029\PCopa0030482211029\bin\Debug\PCopa0030482211029.exe
+c:\users\0030482211029\documents\visual studio 2013\Projects\PCopa0030482211029\PCopa0030482211029\bin\Debug\PCopa0030482211029.pdb
+c:\users\0030482211029\documents\visual studio 2013\Projects\PCopa0030482211029\PCopa0030482211029\obj\Debug\PCopa0030482211029.csprojResolveAssemblyReference.cache
+c:\users\0030482211029\documents\visual studio 2013\Projects\PCopa0030482211029\PCopa0030482211029\obj\Debug\PCopa0030482211029.frmPrincipal.resources
+c:\users\0030482211029\documents\visual studio 2013\Projects\PCopa0030482211029\PCopa0030482211029\obj\Debug\PCopa0030482211029.Properties.Resources.resources
+c:\users\0030482211029\documents\visual studio 2013\Projects\PCopa0030482211029\PCopa0030482211029\obj\Debug\PCopa0030482211029.csproj.GenerateResource.Cache
+c:\users\0030482211029\documents\visual studio 2013\Projects\PCopa0030482211029\PCopa0030482211029\obj\Debug\PCopa0030482211029.exe
+c:\users\0030482211029\documents\visual studio 2013\Projects\PCopa0030482211029\PCopa0030482211029\obj\Debug\PCopa0030482211029.pdb
+C:\Users\0030482211029\Documents\Visual Studio 2013\Projects\PCopa0030482211029\PCopa0030482211029\obj\Debug\PCopa0030482211029.frmJogo.resources
+C:\Users\0030482211029\Documents\Visual Studio 2013\Projects\PCopa0030482211029\PCopa0030482211029\obj\Debug\PCopa0030482211029.frmSobre.resources
